@@ -1,0 +1,5 @@
+{
+  "name": "AI CircuitLab",
+  "description": "An AI-powered web platform for designing and simulating electronic circuits, inspired by Tinkercad. Generate full circuit projects from natural language prompts using the Gemini API.",
+  "requestFramePermissions": []
+}
